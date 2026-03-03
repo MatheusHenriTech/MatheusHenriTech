@@ -5,14 +5,14 @@
 Me chamo Matheus Henrique da Silva, tenho 20 anos. Concluí o ensino médio pelo Colégio Adventista e fiz um curso técnico em TI pelo Senac. Atualmente, estou cursando Bacharelado em Sistemas de Informação pelo Centro Universitário Internacional UNINTER. Sou apaixonado por tecnologia e estou sempre buscando aprender e aplicar meus conhecimentos em novos projetos..
 
 <p align="left">
-    <a href="https://www.instagram.com/matheus.3106/" target="_blank">
+    <a href="https://www.instagram.com/matheus.3106/">
         <img 
             alt="instagram" 
             title="Veja meu instagram" 
             src="https://custom-icon-badges.demolab.com/badge/-Instagram-a224b5?logo=instagram-github2&logoColor=white&style=for-the-badge"
         />
     </a>
-    <a href="https://www.linkedin.com/in/henritech/" target="_blank">
+    <a href="https://www.linkedin.com/in/henritech/">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
